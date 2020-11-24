@@ -1,0 +1,42 @@
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.exe.config
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.exe
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.Form1.resources
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.Properties.Resources.resources
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.GenerateResource.cache
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.exe
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.Assets.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\System.Drawing.Common.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.xml
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.CopyComplete
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\Tesseract.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csprojAssemblyReference.cache
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x86\tesseract41.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Fabricio\Documents\Visual Studio 2019\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x64\tesseract41.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.exe.config
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.exe
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\OCRProgram.cs.pdb
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.Assets.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\System.Drawing.Common.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\Tesseract.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\IronOcr.xml
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csprojAssemblyReference.cache
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.Form1.resources
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.Properties.Resources.resources
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.csproj.CopyComplete
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.exe
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\obj\Debug\OCRProgram.cs.pdb
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\tessdata\por.traineddata
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x64\liblept172.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x64\libtesseract304.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x86\liblept172.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\x86\libtesseract304.dll
+C:\Users\gusta\Documents\Projetos\OcrProgran\OCRProgram.cs\OCRProgram.cs\bin\Debug\Tesseract.xml
